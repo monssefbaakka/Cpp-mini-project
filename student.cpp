@@ -9,7 +9,7 @@ using namespace std;
 Student::Student()
 {
     setMatricule(69);
-    setName("xxxxxxxxxxx");
+    setName("xxxxxxxx");
     setPrenom("yyyyyyyyyy");
 }
 
