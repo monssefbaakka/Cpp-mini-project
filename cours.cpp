@@ -20,7 +20,7 @@ void Cours::ajouterEtudiant(Student &etudiant)
 
 void Cours::afficherInfos()
 {
-    cout << "le cours du code : " << code << " et du nom : "
+    cout << "le cours du code : " << code << " et le nom : "
          << nom << "  enseigne par le professeur: " << tutor << "  la liste des etudiants inscrit est : " << endl;
     for (int i = 0; i < etudiantInscrit.size(); i++)
     {
