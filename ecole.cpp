@@ -57,7 +57,7 @@ void Ecole::supprimerEtudiant(int m)
         }
     }
     cout << endl
-         << "l'etudiant n'a pas ete trouve!" << endl;
+         << "l'etudiant n'a pas ete trouve  !" << endl;
 }
 
 void Ecole::supprimerCours(int code)
